@@ -1,0 +1,56 @@
+.myimg{
+	width:300px;
+	height:300px;
+	object-fit:cover;
+	border-radius: 50%;
+}
+.myimg{
+	display:  block;
+	margin-left: auto;
+	margin-right:  auto;
+	width: 50%;
+}
+h1{
+	color: #66FF00;
+
+}
+p{
+	color: #66FF00;
+
+	
+}
+h2{
+	color: #66FF00;
+	
+}
+body{
+	background-color: #000000;
+	font-family: georgia;
+}
+li{
+	color: #66ff00;
+	
+
+}
+button{
+	background-color: #000000;
+	Color: #66ff00;
+	border: 0;
+	padding: 0;
+	font-size: 20px;
+}
+a{
+	color: #66ff00;
+	
+}
+span{
+	color: #66ff00;
+	margin: 50px;
+	
+}
+
+#timesnewroman{
+	font-family: "Times New Roman";
+	
+
+}
